@@ -1,0 +1,15 @@
+{
+  "appId": "app.lovable.58e807307b704b9db42575850dc5462e",
+  "appName": "algot-learning-portal",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "url": "https://58e80730-7b70-4b9d-b425-75850dc5462e.lovableproject.com?forceHideBadge=true",
+    "cleartext": true
+  },
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
