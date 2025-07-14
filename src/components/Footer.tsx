@@ -19,7 +19,7 @@ const Footer: React.FC = () => {
               />
             </div>
             <div className="space-y-2">
-              <h3 className="text-xl font-semibold">Naveen</h3>
+              <h3 className="text-xl font-semibold">A. Naveen</h3>
               <p className="text-gray-300">Educator</p>
               <div className="space-y-1">
                 <div className="flex items-center space-x-2">
@@ -30,10 +30,10 @@ const Footer: React.FC = () => {
                   <span className="text-lg">📧</span>
                   <span className="text-sm">algotnaveen@gmail.com</span>
                 </div>
-                <div className="flex items-center space-x-2">
+                {/* <div className="flex items-center space-x-2">
                   <span className="text-lg">🌐</span>
                   <span className="text-sm">www.algotnaveen.com</span>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
@@ -49,16 +49,16 @@ const Footer: React.FC = () => {
               <div className="space-y-1">
                 <div className="flex items-center space-x-2">
                   <span className="text-lg">📞</span>
-                  <span className="text-sm">9948954811</span>
+                  <span className="text-sm">9912588442</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <span className="text-lg">📧</span>
-                  <span className="text-sm">gdcmorthad@gmail.com</span>
+                  <span className="text-sm">sreenivas.oraganti@gmail.com</span>
                 </div>
-                <div className="flex items-center space-x-2">
+                {/* <div className="flex items-center space-x-2">
                   <span className="text-lg">🌐</span>
                   <span className="text-sm">www.gdcmorthad.edu</span>
-                </div>
+                </div> /*}
               </div>
             </div>
           </div>
