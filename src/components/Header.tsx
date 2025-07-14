@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import algotLogo from '@/assets/algot-logo.png';
+import algotLogo from '@/assets/logo.png';
 
 interface HeaderProps {
   onMenuClick: () => void;
